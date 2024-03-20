@@ -2,7 +2,6 @@ pytz
 numpy
 nbformat
 seawater
-rasterio.plot
 plotly.graph_objects
 plotly.subplots
 rasterio
