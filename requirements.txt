@@ -6,7 +6,6 @@ plotly
 rasterio
 matplotlib
 geopandas
-re
 datetime
 scipy
 shapely
