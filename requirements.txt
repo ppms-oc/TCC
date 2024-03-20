@@ -4,11 +4,10 @@ nbformat
 seawater
 plotly
 rasterio
-matplotlib.pyplot
+matplotlib
 geopandas
 re
 datetime
-scipy.interpolate
-shapely.geometry
+scipy
+shapely
 pandas
-plotly.express
