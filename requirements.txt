@@ -2,8 +2,7 @@ pytz
 numpy
 nbformat
 seawater
-plotly.graph_objects
-plotly.subplots
+plotly
 rasterio
 matplotlib.pyplot
 geopandas
